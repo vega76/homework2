@@ -1,0 +1,13 @@
+.doc-header{
+	text-align: center;	/*Выравнивание по центру*/
+}
+
+.doc-header img{
+	height: 200px;	/*Высота картинки*/
+}
+
+.doc-body{
+	text-align: left;		/*Выравнивание по левому краю*/
+	font-size: 28px;		/*Размер шрифта*/
+	margin-left: 20px;	/*Отступ слева*/
+}
